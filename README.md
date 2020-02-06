@@ -8,6 +8,7 @@ author: ["Linux-Fan, Ma_Sys.ma (Ma_Sys.ma@web.de)"]
 keywords: ["programs", "c", "unraf"]
 x-masysma-version: 1.0.0
 x-masysma-repository: https://www.github.com/m7a/bo-unraf
+x-masysma-website: https://masysma.lima-city.de/32/unraf.xhtml
 x-masysma-owned: 1
 x-masysma-copyright: |
   Copyright (c) 2013, 2020 Ma_Sys.ma.
